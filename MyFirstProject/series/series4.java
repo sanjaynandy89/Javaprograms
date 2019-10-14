@@ -1,0 +1,18 @@
+
+
+public class series4
+{
+  public void main(int n,int x)
+  {
+      double term=1,i,f=1;
+      for(i=1;i<n;i++)
+      { f=f*i;
+        if(i%2==0)
+        term=term-Math.pow(x,i)/f;
+         else
+         term=term+Math.pow(x,i)/f;   
+      }
+       System.out.println(term);
+    }
+     
+}

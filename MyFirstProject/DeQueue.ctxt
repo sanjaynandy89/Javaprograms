@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=data\ size
+comment0.target=void\ insertfrontqueue(int,\ int)
+comment0.text=insert\ an\ element\ into\ \ front\ of\ thethe\ queue
+comment1.params=data\ size
+comment1.target=void\ insertendqueue(int,\ int)
+comment1.text=insert\ an\ element\ into\ delete\ of\ thethe\ queue
+comment2.params=
+comment2.target=void\ deletefrontqueue()
+comment2.text=delete\ an\ element\ from\ the\ queue
+comment3.params=
+comment3.target=void\ deleterearqueue()
+comment3.text=delete\ an\ element\ from\ the\ queue
+comment4.params=
+comment4.target=void\ display()
+comment4.text=display\ elements\ present\ in\ the\ queue
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

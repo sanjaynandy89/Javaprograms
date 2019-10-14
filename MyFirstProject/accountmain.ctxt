@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=accountnumber\ principal\ rate\ time
+comment0.target=simple(int,\ double,\ double,\ int)
+comment1.params=
+comment1.target=double\ interest()
+comment2.params=
+comment2.target=void\ display2()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

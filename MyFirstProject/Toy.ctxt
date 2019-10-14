@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=toyID\ description\ minAge\ dailyRate\ status\ memberID\ hireDate
+comment0.target=Toy(java.lang.String,\ java.lang.String,\ int,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=toyID\ description\ minAge\ dailyRate\ status
+comment1.target=Toy(java.lang.String,\ java.lang.String,\ int,\ double,\ java.lang.String)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

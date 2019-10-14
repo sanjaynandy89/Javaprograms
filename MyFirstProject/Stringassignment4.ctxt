@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=str1
+comment0.target=void\ longestWord(java.lang.String)
+comment1.params=str1
+comment1.target=void\ srtingWordAsscending(java.lang.String)
+comment2.params=str1
+comment2.target=void\ freqWords(java.lang.String)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

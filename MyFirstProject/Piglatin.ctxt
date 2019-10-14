@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Piglatin()
+comment1.params=
+comment1.target=void\ readString()
+comment2.params=sent1
+comment2.target=java.lang.String\ convert(java.lang.String)
+comment3.params=
+comment3.target=void\ change()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
